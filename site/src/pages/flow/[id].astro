@@ -1,0 +1,6 @@
+---
+import Layout from '../../layouts/Layout.astro'; import Card from '../../components/Card.astro'; import {steps,projects} from '../../data/catalog.js';
+export function getStaticPaths(){ return steps.map(step=>({params:{id:step.id},props:{step}})); }
+const {step}=Astro.props; const matches=projects.filter(p=>p.category===step.id);
+---
+<Layout title={step.name}><div class="wrap page"><div class="crumb"><a href="/">首页</a> / <a href="/flow/">创作流程</a> / {step.name}</div><div class="page-intro compact"><div class="kicker">CREATIVE WORKFLOW / {step.number}</div><h1>{step.name}<span class="accent">.</span></h1><p>{step.description}</p></div><div class="section-head"><div><div class="kicker">EXPLORE THE TOOLS</div><h2>探索相关工具</h2><p>依据 GitHub 仓库公开资料整理，使用前请核对原仓库。</p></div><a class="text-link" href={`/search/?category=${step.id}`}>搜索与筛选 ↗</a></div>{matches.length ? <div class="cards-grid">{matches.map(project=><Card project={project}/>)}</div> : <div class="empty"><span>✳</span><h3>这一阶段的项目还在整理中</h3><p>先看看其他流程，或者浏览全部工具。</p><a class="outline-btn" href="/flow/">返回创作流程 ↗</a></div>}</div></Layout>

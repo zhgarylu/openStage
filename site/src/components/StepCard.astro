@@ -1,0 +1,4 @@
+---
+const { step } = Astro.props;
+---
+<a class="step-card" href={`/flow/${step.id}/`}><div class="step-top"><span>{step.icon}</span><small>{step.number}</small></div><h3>{step.name}</h3><p>{step.description}</p><span class="step-arrow">↗</span></a>

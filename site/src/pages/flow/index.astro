@@ -1,0 +1,4 @@
+---
+import Layout from '../../layouts/Layout.astro'; import StepCard from '../../components/StepCard.astro'; import {steps} from '../../data/catalog.js';
+---
+<Layout title="创作流程"><div class="wrap page"><div class="page-intro"><div class="kicker">FROM IDEA TO SCREEN / 01</div><h1>从灵感到成片<span class="accent">.</span></h1><p>六个创作阶段，一张清晰的工具地图。每个项目都可以按你的实际工作方式组合使用。</p></div><div class="section-head"><div><div class="kicker">YOUR CREATIVE WORKFLOW</div><h2>从哪一步开始？</h2></div><span class="mono muted">01 — 06</span></div><div class="steps-grid flow-grid">{steps.map(step=><StepCard step={step}/>)}</div><div class="inline-callout"><div><strong>还不知道选什么？</strong><p>从工具库搜索用途，或浏览全部示例项目。</p></div><a class="outline-btn" href="/search/">进入工具库 ↗</a></div></div></Layout>

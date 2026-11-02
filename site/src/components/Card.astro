@@ -1,0 +1,5 @@
+---
+import { categories } from '../data/catalog.js';
+const { project:p } = Astro.props;
+---
+<a class="project-card" href={`/p/${p.id}/`} data-project={JSON.stringify(p)}><div class="card-top"><span class="card-icon">{p.name.slice(0,1)}</span><span class="card-arrow">↗</span></div><div><div class="card-category">{categories[p.category]?.name}</div><h3>{p.name}</h3><p>{p.summary}</p></div><div class="card-tags">{p.tags.map((tag:string)=><span>{tag}</span>)}</div><div class="card-meta"><span>★ {Number(p.stars).toLocaleString()} · GitHub</span><span>显卡：{p.gpu}</span></div></a>

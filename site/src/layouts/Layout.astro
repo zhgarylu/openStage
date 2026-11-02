@@ -1,0 +1,9 @@
+---
+import '../styles/global.css';
+const { title = 'OpenStage', description = '面向 AI 短剧创作者的开源工具发现与使用指南' } = Astro.props;
+const path = Astro.url.pathname;
+---
+<!doctype html><html lang="zh-CN"><head><meta charset="UTF-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><meta name="description" content={description}/><title>{title === 'OpenStage' ? title : `${title} · OpenStage`}</title></head><body>
+<header class="topbar"><div class="nav wrap"><a class="brand" href="/" aria-label="OpenStage 首页"><span class="mark">▰</span><span>OpenStage</span></a><span class="brand-sub">AI 短片创作开源工具库</span><nav class="desktop-nav" aria-label="主导航"><a class:list={[path === '/' && 'active']} href="/">首页</a><a class:list={[path.startsWith('/flow') && 'active']} href="/flow/">创作流程</a><a class:list={[path.startsWith('/search') && 'active']} href="/search/">工具库</a><a class:list={[path.startsWith('/weekly') && 'active']} href="/weekly/">本周观察</a><a class:list={[path.startsWith('/about') && 'active']} href="/about/">关于</a></nav><a class="nav-search" href="/search/" aria-label="搜索">⌕</a><details class="mobile-menu"><summary aria-label="打开导航">☰</summary><nav aria-label="移动导航"><a href="/">首页</a><a href="/flow/">创作流程</a><a href="/search/">工具库</a><a href="/weekly/">本周观察</a><a href="/about/">关于</a></nav></details></div></header>
+<main><slot /></main><footer><div class="wrap footer-inner"><div><a class="brand" href="/"><span class="mark">▰</span> OpenStage</a><p>为创作者寻找值得探索的开源工具。</p></div><div class="footer-links"><a href="/flow/">创作流程</a><a href="/weekly/">本周观察</a><a href="/about/">关于与说明</a></div><p class="footer-note">验证版 · 项目依据 GitHub 公开资料整理，使用前请核对原仓库。<br/>内容与数据持续完善中。</p></div></footer>
+</body></html>
