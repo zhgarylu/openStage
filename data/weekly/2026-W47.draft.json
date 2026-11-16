@@ -1,0 +1,214 @@
+{
+  "week": "2026-W47",
+  "review_state": "pending",
+  "start": "2026-11-09T01:49:56.952959+00:00",
+  "end": "2026-11-16T02:18:56.942288+00:00",
+  "projects": [
+    {
+      "id": 1206390571,
+      "full_name": "debpalash/VoiceStudio",
+      "stars": 111397,
+      "delta7": 6338,
+      "growth_pct": 6.0,
+      "review_flags": [
+        "voice_clone"
+      ]
+    },
+    {
+      "id": 770153867,
+      "full_name": "harry0703/MoneyPrinterTurbo",
+      "stars": 143834,
+      "delta7": 2755,
+      "growth_pct": 2.0,
+      "review_flags": []
+    },
+    {
+      "id": 1346499044,
+      "full_name": "jub0t/Concat",
+      "stars": 17854,
+      "delta7": 2088,
+      "growth_pct": 13.2,
+      "review_flags": []
+    },
+    {
+      "id": 1195360525,
+      "full_name": "OpenMontageInc/OpenMontage",
+      "stars": 80741,
+      "delta7": 2053,
+      "growth_pct": 2.6,
+      "review_flags": []
+    },
+    {
+      "id": 589831718,
+      "full_name": "Comfy-Org/ComfyUI",
+      "stars": 147040,
+      "delta7": 1232,
+      "growth_pct": 0.8,
+      "review_flags": []
+    },
+    {
+      "id": 1145022970,
+      "full_name": "HBAI-Ltd/Toonflow-app",
+      "stars": 21905,
+      "delta7": 804,
+      "growth_pct": 3.8,
+      "review_flags": []
+    },
+    {
+      "id": 1057664813,
+      "full_name": "OpenBMB/VoxCPM",
+      "stars": 42528,
+      "delta7": 722,
+      "growth_pct": 1.7,
+      "review_flags": [
+        "voice_clone"
+      ]
+    },
+    {
+      "id": 743230067,
+      "full_name": "RVC-Boss/GPT-SoVITS",
+      "stars": 65198,
+      "delta7": 622,
+      "growth_pct": 1.0,
+      "review_flags": [
+        "voice_clone"
+      ]
+    },
+    {
+      "id": 1398091865,
+      "full_name": "storytold/filmcraft",
+      "stars": 18361,
+      "delta7": 512,
+      "growth_pct": 2.9,
+      "review_flags": []
+    },
+    {
+      "id": 1325096132,
+      "full_name": "eternityspring/shuohao-skills",
+      "stars": 6685,
+      "delta7": 403,
+      "growth_pct": 6.4,
+      "review_flags": []
+    },
+    {
+      "id": 1302986554,
+      "full_name": "zenstory-ai/drama-skills",
+      "stars": 4301,
+      "delta7": 340,
+      "growth_pct": 8.6,
+      "review_flags": []
+    },
+    {
+      "id": 1315384578,
+      "full_name": "HaD0Yun/CozyClay",
+      "stars": 1845,
+      "delta7": 269,
+      "growth_pct": 17.1,
+      "review_flags": []
+    },
+    {
+      "id": 1193300953,
+      "full_name": "dramaclaw/dramaclaw",
+      "stars": 7720,
+      "delta7": 252,
+      "growth_pct": 3.4,
+      "review_flags": []
+    },
+    {
+      "id": 1152014383,
+      "full_name": "ArcReel/ArcReel",
+      "stars": 6566,
+      "delta7": 233,
+      "growth_pct": 3.7,
+      "review_flags": []
+    },
+    {
+      "id": 904490600,
+      "full_name": "krillinai/OpenCreator",
+      "stars": 14371,
+      "delta7": 130,
+      "growth_pct": 0.9,
+      "review_flags": []
+    },
+    {
+      "id": 260117248,
+      "full_name": "WyattBlue/auto-editor",
+      "stars": 5924,
+      "delta7": 109,
+      "growth_pct": 1.9,
+      "review_flags": []
+    },
+    {
+      "id": 699432836,
+      "full_name": "jianchang512/pyvideotrans",
+      "stars": 19754,
+      "delta7": 80,
+      "growth_pct": 0.4,
+      "review_flags": []
+    },
+    {
+      "id": 569959091,
+      "full_name": "modelscope/FunASR",
+      "stars": 21036,
+      "delta7": 71,
+      "growth_pct": 0.3,
+      "review_flags": []
+    },
+    {
+      "id": 1154273018,
+      "full_name": "xuanyustudio/LocalMiniDrama",
+      "stars": 2454,
+      "delta7": 67,
+      "growth_pct": 2.8,
+      "review_flags": []
+    },
+    {
+      "id": 891705470,
+      "full_name": "Lightricks/LTX-Video",
+      "stars": 11396,
+      "delta7": 53,
+      "growth_pct": 0.5,
+      "review_flags": []
+    },
+    {
+      "id": 641795100,
+      "full_name": "modelscope/FunClip",
+      "stars": 6562,
+      "delta7": 50,
+      "growth_pct": 0.8,
+      "review_flags": []
+    },
+    {
+      "id": 871368615,
+      "full_name": "NVlabs/Sana",
+      "stars": 9839,
+      "delta7": 48,
+      "growth_pct": 0.5,
+      "review_flags": []
+    },
+    {
+      "id": 818118661,
+      "full_name": "mcmonkeyprojects/SwarmUI",
+      "stars": 4788,
+      "delta7": 36,
+      "growth_pct": 0.8,
+      "review_flags": []
+    },
+    {
+      "id": 652941996,
+      "full_name": "LykosAI/StabilityMatrix",
+      "stars": 9034,
+      "delta7": 34,
+      "growth_pct": 0.4,
+      "review_flags": []
+    },
+    {
+      "id": 36648301,
+      "full_name": "OpenShot/openshot-qt",
+      "stars": 6790,
+      "delta7": 33,
+      "growth_pct": 0.5,
+      "review_flags": []
+    }
+  ]
+}
