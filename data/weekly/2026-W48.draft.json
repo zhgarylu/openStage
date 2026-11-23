@@ -1,0 +1,188 @@
+{
+  "week": "2026-W48",
+  "review_state": "pending",
+  "start": "2026-11-16T02:18:56.942288+00:00",
+  "end": "2026-11-23T02:57:03.611031+00:00",
+  "projects": [
+    {
+      "id": 1206390571,
+      "full_name": "debpalash/VoiceStudio",
+      "stars": 116574,
+      "delta7": 5177,
+      "growth_pct": 4.6,
+      "review_flags": [
+        "voice_clone"
+      ]
+    },
+    {
+      "id": 1346499044,
+      "full_name": "jub0t/Concat",
+      "stars": 19650,
+      "delta7": 1796,
+      "growth_pct": 10.1,
+      "review_flags": []
+    },
+    {
+      "id": 1195360525,
+      "full_name": "OpenMontageInc/OpenMontage",
+      "stars": 82447,
+      "delta7": 1706,
+      "growth_pct": 2.1,
+      "review_flags": []
+    },
+    {
+      "id": 770153867,
+      "full_name": "harry0703/MoneyPrinterTurbo",
+      "stars": 145104,
+      "delta7": 1270,
+      "growth_pct": 0.9,
+      "review_flags": []
+    },
+    {
+      "id": 589831718,
+      "full_name": "Comfy-Org/ComfyUI",
+      "stars": 148166,
+      "delta7": 1126,
+      "growth_pct": 0.8,
+      "review_flags": []
+    },
+    {
+      "id": 1145022970,
+      "full_name": "HBAI-Ltd/Toonflow-app",
+      "stars": 22544,
+      "delta7": 639,
+      "growth_pct": 2.9,
+      "review_flags": []
+    },
+    {
+      "id": 1398091865,
+      "full_name": "storytold/filmcraft",
+      "stars": 18861,
+      "delta7": 500,
+      "growth_pct": 2.7,
+      "review_flags": []
+    },
+    {
+      "id": 1302986554,
+      "full_name": "zenstory-ai/drama-skills",
+      "stars": 4758,
+      "delta7": 457,
+      "growth_pct": 10.6,
+      "review_flags": []
+    },
+    {
+      "id": 1057664813,
+      "full_name": "OpenBMB/VoxCPM",
+      "stars": 42878,
+      "delta7": 350,
+      "growth_pct": 0.8,
+      "review_flags": [
+        "voice_clone"
+      ]
+    },
+    {
+      "id": 1325096132,
+      "full_name": "eternityspring/shuohao-skills",
+      "stars": 6950,
+      "delta7": 265,
+      "growth_pct": 4.0,
+      "review_flags": []
+    },
+    {
+      "id": 1315384578,
+      "full_name": "HaD0Yun/CozyClay",
+      "stars": 2095,
+      "delta7": 250,
+      "growth_pct": 13.6,
+      "review_flags": []
+    },
+    {
+      "id": 1152014383,
+      "full_name": "ArcReel/ArcReel",
+      "stars": 6714,
+      "delta7": 148,
+      "growth_pct": 2.3,
+      "review_flags": []
+    },
+    {
+      "id": 260117248,
+      "full_name": "WyattBlue/auto-editor",
+      "stars": 6060,
+      "delta7": 136,
+      "growth_pct": 2.3,
+      "review_flags": []
+    },
+    {
+      "id": 904490600,
+      "full_name": "krillinai/OpenCreator",
+      "stars": 14493,
+      "delta7": 122,
+      "growth_pct": 0.8,
+      "review_flags": []
+    },
+    {
+      "id": 1174289380,
+      "full_name": "Forget-C/Jellyfish",
+      "stars": 7293,
+      "delta7": 101,
+      "growth_pct": 1.4,
+      "review_flags": []
+    },
+    {
+      "id": 891705470,
+      "full_name": "Lightricks/LTX-Video",
+      "stars": 11466,
+      "delta7": 70,
+      "growth_pct": 0.6,
+      "review_flags": []
+    },
+    {
+      "id": 1154273018,
+      "full_name": "xuanyustudio/LocalMiniDrama",
+      "stars": 2520,
+      "delta7": 66,
+      "growth_pct": 2.7,
+      "review_flags": []
+    },
+    {
+      "id": 569959091,
+      "full_name": "modelscope/FunASR",
+      "stars": 21099,
+      "delta7": 63,
+      "growth_pct": 0.3,
+      "review_flags": []
+    },
+    {
+      "id": 641795100,
+      "full_name": "modelscope/FunClip",
+      "stars": 6622,
+      "delta7": 60,
+      "growth_pct": 0.9,
+      "review_flags": []
+    },
+    {
+      "id": 699432836,
+      "full_name": "jianchang512/pyvideotrans",
+      "stars": 19806,
+      "delta7": 52,
+      "growth_pct": 0.3,
+      "review_flags": []
+    },
+    {
+      "id": 36648301,
+      "full_name": "OpenShot/openshot-qt",
+      "stars": 6828,
+      "delta7": 38,
+      "growth_pct": 0.6,
+      "review_flags": []
+    },
+    {
+      "id": 652941996,
+      "full_name": "LykosAI/StabilityMatrix",
+      "stars": 9069,
+      "delta7": 35,
+      "growth_pct": 0.4,
+      "review_flags": []
+    }
+  ]
+}
