@@ -1,0 +1,572 @@
+{
+  "captured_at": "2026-11-27T04:24:14.538212+00:00",
+  "projects": [
+    {
+      "id": 1209489305,
+      "full_name": "yuanbw2025/storyforge",
+      "stars": 1054,
+      "forks": 177,
+      "pushed_at": "2026-11-27T04:23:12Z",
+      "archived": false,
+      "html_url": "https://github.com/yuanbw2025/storyforge"
+    },
+    {
+      "id": 1092492342,
+      "full_name": "Doriandarko/kimi-writer",
+      "stars": 596,
+      "forks": 116,
+      "pushed_at": "2026-01-29T16:24:05Z",
+      "archived": false,
+      "html_url": "https://github.com/Doriandarko/kimi-writer"
+    },
+    {
+      "id": 1174957711,
+      "full_name": "iLearn-Lab/NovelClaw",
+      "stars": 375,
+      "forks": 54,
+      "pushed_at": "2026-10-12T09:37:45Z",
+      "archived": false,
+      "html_url": "https://github.com/iLearn-Lab/NovelClaw"
+    },
+    {
+      "id": 636307780,
+      "full_name": "PAIR-code/wordcraft",
+      "stars": 355,
+      "forks": 73,
+      "pushed_at": "2026-06-23T03:05:16Z",
+      "archived": false,
+      "html_url": "https://github.com/PAIR-code/wordcraft"
+    },
+    {
+      "id": 933555619,
+      "full_name": "a-omukai/Writingway",
+      "stars": 207,
+      "forks": 46,
+      "pushed_at": "2026-07-25T12:42:18Z",
+      "archived": false,
+      "html_url": "https://github.com/a-omukai/Writingway"
+    },
+    {
+      "id": 750141928,
+      "full_name": "dylanhogg/gptauthor",
+      "stars": 118,
+      "forks": 12,
+      "pushed_at": "2026-08-15T06:40:22Z",
+      "archived": false,
+      "html_url": "https://github.com/dylanhogg/gptauthor"
+    },
+    {
+      "id": 1145022970,
+      "full_name": "HBAI-Ltd/Toonflow-app",
+      "stars": 22952,
+      "forks": 4187,
+      "pushed_at": "2026-11-20T11:01:16Z",
+      "archived": false,
+      "html_url": "https://github.com/HBAI-Ltd/Toonflow-app"
+    },
+    {
+      "id": 1139782619,
+      "full_name": "waooAI/waoowaoo",
+      "stars": 14988,
+      "forks": 3233,
+      "pushed_at": "2026-09-21T10:39:25Z",
+      "archived": false,
+      "html_url": "https://github.com/waooAI/waoowaoo"
+    },
+    {
+      "id": 1174289380,
+      "full_name": "Forget-C/Jellyfish",
+      "stars": 7352,
+      "forks": 1264,
+      "pushed_at": "2026-11-25T06:07:34Z",
+      "archived": false,
+      "html_url": "https://github.com/Forget-C/Jellyfish"
+    },
+    {
+      "id": 1152014383,
+      "full_name": "ArcReel/ArcReel",
+      "stars": 6794,
+      "forks": 1358,
+      "pushed_at": "2026-11-26T17:28:42Z",
+      "archived": false,
+      "html_url": "https://github.com/ArcReel/ArcReel"
+    },
+    {
+      "id": 1325096132,
+      "full_name": "eternityspring/shuohao-skills",
+      "stars": 7203,
+      "forks": 1020,
+      "pushed_at": "2026-11-09T14:58:55Z",
+      "archived": false,
+      "html_url": "https://github.com/eternityspring/shuohao-skills"
+    },
+    {
+      "id": 1302986554,
+      "full_name": "zenstory-ai/drama-skills",
+      "stars": 5090,
+      "forks": 851,
+      "pushed_at": "2026-11-24T16:24:25Z",
+      "archived": false,
+      "html_url": "https://github.com/zenstory-ai/drama-skills"
+    },
+    {
+      "id": 1154273018,
+      "full_name": "xuanyustudio/LocalMiniDrama",
+      "stars": 2559,
+      "forks": 598,
+      "pushed_at": "2026-11-27T00:42:47Z",
+      "archived": false,
+      "html_url": "https://github.com/xuanyustudio/LocalMiniDrama"
+    },
+    {
+      "id": 1178594584,
+      "full_name": "LingyiChen-AI/AIComicBuilder",
+      "stars": 1987,
+      "forks": 334,
+      "pushed_at": "2026-04-27T01:33:05Z",
+      "archived": false,
+      "html_url": "https://github.com/LingyiChen-AI/AIComicBuilder"
+    },
+    {
+      "id": 1315384578,
+      "full_name": "HaD0Yun/CozyClay",
+      "stars": 2077,
+      "forks": 223,
+      "pushed_at": "2026-11-27T00:01:10Z",
+      "archived": false,
+      "html_url": "https://github.com/HaD0Yun/CozyClay"
+    },
+    {
+      "id": 1109163478,
+      "full_name": "0xsline/StoryGen-Atelier",
+      "stars": 1029,
+      "forks": 159,
+      "pushed_at": "2026-09-17T04:29:39Z",
+      "archived": false,
+      "html_url": "https://github.com/0xsline/StoryGen-Atelier"
+    },
+    {
+      "id": 1172704616,
+      "full_name": "henjicc/Storyboard-Copilot",
+      "stars": 722,
+      "forks": 213,
+      "pushed_at": "2026-03-18T13:04:12Z",
+      "archived": false,
+      "html_url": "https://github.com/henjicc/Storyboard-Copilot"
+    },
+    {
+      "id": 589831718,
+      "full_name": "Comfy-Org/ComfyUI",
+      "stars": 148790,
+      "forks": 17732,
+      "pushed_at": "2026-11-27T02:33:31Z",
+      "archived": false,
+      "html_url": "https://github.com/Comfy-Org/ComfyUI"
+    },
+    {
+      "id": 652941996,
+      "full_name": "LykosAI/StabilityMatrix",
+      "stars": 9084,
+      "forks": 629,
+      "pushed_at": "2026-11-24T02:27:37Z",
+      "archived": false,
+      "html_url": "https://github.com/LykosAI/StabilityMatrix"
+    },
+    {
+      "id": 767985271,
+      "full_name": "ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO",
+      "stars": 7996,
+      "forks": 737,
+      "pushed_at": "2024-12-20T04:28:45Z",
+      "archived": false,
+      "html_url": "https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO"
+    },
+    {
+      "id": 539389184,
+      "full_name": "TheLastBen/fast-stable-diffusion",
+      "stars": 7912,
+      "forks": 1361,
+      "pushed_at": "2025-11-29T05:43:05Z",
+      "archived": false,
+      "html_url": "https://github.com/TheLastBen/fast-stable-diffusion"
+    },
+    {
+      "id": 580537336,
+      "full_name": "AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin",
+      "stars": 7313,
+      "forks": 528,
+      "pushed_at": "2024-04-22T18:44:01Z",
+      "archived": false,
+      "html_url": "https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin"
+    },
+    {
+      "id": 994252890,
+      "full_name": "11cafe/jaaz",
+      "stars": 6766,
+      "forks": 672,
+      "pushed_at": "2026-03-02T03:46:42Z",
+      "archived": false,
+      "html_url": "https://github.com/11cafe/jaaz"
+    },
+    {
+      "id": 932644823,
+      "full_name": "ATH-MaaS/ComfyUI-Copilot",
+      "stars": 5592,
+      "forks": 373,
+      "pushed_at": "2026-09-11T02:19:06Z",
+      "archived": false,
+      "html_url": "https://github.com/ATH-MaaS/ComfyUI-Copilot"
+    },
+    {
+      "id": 818118661,
+      "full_name": "mcmonkeyprojects/SwarmUI",
+      "stars": 4817,
+      "forks": 488,
+      "pushed_at": "2026-11-22T19:03:13Z",
+      "archived": false,
+      "html_url": "https://github.com/mcmonkeyprojects/SwarmUI"
+    },
+    {
+      "id": 884123664,
+      "full_name": "nunchux-ai/nunchaku",
+      "stars": 3967,
+      "forks": 289,
+      "pushed_at": "2026-09-06T23:07:26Z",
+      "archived": false,
+      "html_url": "https://github.com/nunchux-ai/nunchaku"
+    },
+    {
+      "id": 739562545,
+      "full_name": "MrForExample/ComfyUI-3D-Pack",
+      "stars": 3930,
+      "forks": 381,
+      "pushed_at": "2025-12-29T08:06:02Z",
+      "archived": false,
+      "html_url": "https://github.com/MrForExample/ComfyUI-3D-Pack"
+    },
+    {
+      "id": 871368615,
+      "full_name": "NVlabs/Sana",
+      "stars": 9909,
+      "forks": 816,
+      "pushed_at": "2026-11-25T06:31:38Z",
+      "archived": false,
+      "html_url": "https://github.com/NVlabs/Sana"
+    },
+    {
+      "id": 1091534692,
+      "full_name": "ATH-MaaS/Pixelle-Video",
+      "stars": 30556,
+      "forks": 4426,
+      "pushed_at": "2026-06-14T12:40:58Z",
+      "archived": false,
+      "html_url": "https://github.com/ATH-MaaS/Pixelle-Video"
+    },
+    {
+      "id": 1195360525,
+      "full_name": "OpenMontageInc/OpenMontage",
+      "stars": 83690,
+      "forks": 11417,
+      "pushed_at": "2026-11-16T06:55:27Z",
+      "archived": false,
+      "html_url": "https://github.com/OpenMontageInc/OpenMontage"
+    },
+    {
+      "id": 497512032,
+      "full_name": "zai-org/CogVideo",
+      "stars": 13234,
+      "forks": 1402,
+      "pushed_at": "2025-11-04T11:19:04Z",
+      "archived": false,
+      "html_url": "https://github.com/zai-org/CogVideo"
+    },
+    {
+      "id": 891705470,
+      "full_name": "Lightricks/LTX-Video",
+      "stars": 11505,
+      "forks": 1258,
+      "pushed_at": "2026-11-02T19:25:43Z",
+      "archived": false,
+      "html_url": "https://github.com/Lightricks/LTX-Video"
+    },
+    {
+      "id": 1193300953,
+      "full_name": "dramaclaw/dramaclaw",
+      "stars": 7220,
+      "forks": 1001,
+      "pushed_at": "2026-11-27T04:13:04Z",
+      "archived": false,
+      "html_url": "https://github.com/dramaclaw/dramaclaw"
+    },
+    {
+      "id": 622894885,
+      "full_name": "AILab-CVC/VideoCrafter",
+      "stars": 5116,
+      "forks": 418,
+      "pushed_at": "2026-01-09T15:01:22Z",
+      "archived": false,
+      "html_url": "https://github.com/AILab-CVC/VideoCrafter"
+    },
+    {
+      "id": 1100328089,
+      "full_name": "Tencent-Hunyuan/HunyuanVideo-1.5",
+      "stars": 4619,
+      "forks": 246,
+      "pushed_at": "2026-04-10T06:14:59Z",
+      "archived": false,
+      "html_url": "https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5"
+    },
+    {
+      "id": 892173192,
+      "full_name": "Lightricks/ComfyUI-LTXVideo",
+      "stars": 4290,
+      "forks": 528,
+      "pushed_at": "2026-11-12T14:15:27Z",
+      "archived": false,
+      "html_url": "https://github.com/Lightricks/ComfyUI-LTXVideo"
+    },
+    {
+      "id": 823745702,
+      "full_name": "KlingAIResearch/LivePortrait",
+      "stars": 19593,
+      "forks": 2047,
+      "pushed_at": "2026-06-01T17:25:09Z",
+      "archived": false,
+      "html_url": "https://github.com/KlingAIResearch/LivePortrait"
+    },
+    {
+      "id": 536411820,
+      "full_name": "OpenTalker/video-retalking",
+      "stars": 7310,
+      "forks": 1046,
+      "pushed_at": "2024-08-05T05:59:59Z",
+      "archived": false,
+      "html_url": "https://github.com/OpenTalker/video-retalking"
+    },
+    {
+      "id": 1206390571,
+      "full_name": "debpalash/VoiceStudio",
+      "stars": 118973,
+      "forks": 13281,
+      "pushed_at": "2026-11-27T04:18:16Z",
+      "archived": false,
+      "html_url": "https://github.com/debpalash/VoiceStudio"
+    },
+    {
+      "id": 1468768600,
+      "full_name": "RVC-Boss/GPT-SoVITS",
+      "stars": 40,
+      "forks": 6,
+      "pushed_at": "2026-11-11T16:26:18Z",
+      "archived": false,
+      "html_url": "https://github.com/RVC-Boss/GPT-SoVITS"
+    },
+    {
+      "id": 265612440,
+      "full_name": "coqui-ai/TTS",
+      "stars": 46287,
+      "forks": 6161,
+      "pushed_at": "2024-08-16T12:07:14Z",
+      "archived": false,
+      "html_url": "https://github.com/coqui-ai/TTS"
+    },
+    {
+      "id": 1057664813,
+      "full_name": "OpenBMB/VoxCPM",
+      "stars": 43020,
+      "forks": 4915,
+      "pushed_at": "2026-11-09T07:36:59Z",
+      "archived": false,
+      "html_url": "https://github.com/OpenBMB/VoxCPM"
+    },
+    {
+      "id": 806709826,
+      "full_name": "2noise/ChatTTS",
+      "stars": 40040,
+      "forks": 4245,
+      "pushed_at": "2026-04-10T16:33:48Z",
+      "archived": false,
+      "html_url": "https://github.com/2noise/ChatTTS"
+    },
+    {
+      "id": 725089041,
+      "full_name": "myshell-ai/OpenVoice",
+      "stars": 38339,
+      "forks": 4299,
+      "pushed_at": "2025-04-19T16:00:00Z",
+      "archived": false,
+      "html_url": "https://github.com/myshell-ai/OpenVoice"
+    },
+    {
+      "id": 393571599,
+      "full_name": "babysor/MockingBird",
+      "stars": 36858,
+      "forks": 5140,
+      "pushed_at": "2026-03-03T14:59:58Z",
+      "archived": false,
+      "html_url": "https://github.com/babysor/MockingBird"
+    },
+    {
+      "id": 928102730,
+      "full_name": "index-tts/index-tts",
+      "stars": 25318,
+      "forks": 2961,
+      "pushed_at": "2026-09-29T16:06:53Z",
+      "archived": false,
+      "html_url": "https://github.com/index-tts/index-tts"
+    },
+    {
+      "id": 823430322,
+      "full_name": "QwenAudio/CosyVoice",
+      "stars": 24530,
+      "forks": 2808,
+      "pushed_at": "2026-05-25T18:15:40Z",
+      "archived": false,
+      "html_url": "https://github.com/QwenAudio/CosyVoice"
+    },
+    {
+      "id": 699432836,
+      "full_name": "jianchang512/pyvideotrans",
+      "stars": 19851,
+      "forks": 2486,
+      "pushed_at": "2026-11-27T00:52:21Z",
+      "archived": false,
+      "html_url": "https://github.com/jianchang512/pyvideotrans"
+    },
+    {
+      "id": 969010919,
+      "full_name": "nari-labs/dia",
+      "stars": 19428,
+      "forks": 1697,
+      "pushed_at": "2025-11-19T21:11:55Z",
+      "archived": false,
+      "html_url": "https://github.com/nari-labs/dia"
+    },
+    {
+      "id": 1398091865,
+      "full_name": "storytold/filmcraft",
+      "stars": 19087,
+      "forks": 7654,
+      "pushed_at": "2026-11-27T02:55:46Z",
+      "archived": false,
+      "html_url": "https://github.com/storytold/filmcraft"
+    },
+    {
+      "id": 12052630,
+      "full_name": "Zulko/moviepy",
+      "stars": 15217,
+      "forks": 2177,
+      "pushed_at": "2026-08-26T06:17:08Z",
+      "archived": false,
+      "html_url": "https://github.com/Zulko/moviepy"
+    },
+    {
+      "id": 904490600,
+      "full_name": "krillinai/OpenCreator",
+      "stars": 14556,
+      "forks": 1643,
+      "pushed_at": "2026-11-25T02:31:20Z",
+      "archived": false,
+      "html_url": "https://github.com/krillinai/OpenCreator"
+    },
+    {
+      "id": 1346499044,
+      "full_name": "jub0t/Concat",
+      "stars": 21796,
+      "forks": 2680,
+      "pushed_at": "2026-11-27T04:20:48Z",
+      "archived": false,
+      "html_url": "https://github.com/jub0t/Concat"
+    },
+    {
+      "id": 370209029,
+      "full_name": "nadermx/backgroundremover",
+      "stars": 8198,
+      "forks": 663,
+      "pushed_at": "2026-07-10T01:20:32Z",
+      "archived": false,
+      "html_url": "https://github.com/nadermx/backgroundremover"
+    },
+    {
+      "id": 659412092,
+      "full_name": "RayVentura/ShortGPT",
+      "stars": 8216,
+      "forks": 1192,
+      "pushed_at": "2025-02-10T19:33:18Z",
+      "archived": false,
+      "html_url": "https://github.com/RayVentura/ShortGPT"
+    },
+    {
+      "id": 36648301,
+      "full_name": "OpenShot/openshot-qt",
+      "stars": 6847,
+      "forks": 862,
+      "pushed_at": "2026-11-27T00:07:33Z",
+      "archived": false,
+      "html_url": "https://github.com/OpenShot/openshot-qt"
+    },
+    {
+      "id": 641795100,
+      "full_name": "modelscope/FunClip",
+      "stars": 6645,
+      "forks": 792,
+      "pushed_at": "2026-11-01T14:52:34Z",
+      "archived": false,
+      "html_url": "https://github.com/modelscope/FunClip"
+    },
+    {
+      "id": 260117248,
+      "full_name": "WyattBlue/auto-editor",
+      "stars": 6169,
+      "forks": 781,
+      "pushed_at": "2026-11-26T22:51:55Z",
+      "archived": false,
+      "html_url": "https://github.com/WyattBlue/auto-editor"
+    },
+    {
+      "id": 938717878,
+      "full_name": "Wan-Video/Wan2.1",
+      "stars": 17500,
+      "forks": 4110,
+      "pushed_at": "2026-03-05T09:38:07Z",
+      "archived": false,
+      "html_url": "https://github.com/Wan-Video/Wan2.1"
+    },
+    {
+      "id": 569959091,
+      "full_name": "modelscope/FunASR",
+      "stars": 21143,
+      "forks": 2145,
+      "pushed_at": "2026-11-26T22:40:04Z",
+      "archived": false,
+      "html_url": "https://github.com/modelscope/FunASR"
+    },
+    {
+      "id": 387326890,
+      "full_name": "xinntao/Real-ESRGAN",
+      "stars": 37689,
+      "forks": 4563,
+      "pushed_at": "2024-08-06T13:15:18Z",
+      "archived": false,
+      "html_url": "https://github.com/xinntao/Real-ESRGAN"
+    },
+    {
+      "id": 312179734,
+      "full_name": "hzwer/ECCV2022-RIFE",
+      "stars": 5740,
+      "forks": 578,
+      "pushed_at": "2025-09-10T06:32:03Z",
+      "archived": false,
+      "html_url": "https://github.com/hzwer/ECCV2022-RIFE"
+    },
+    {
+      "id": 770153867,
+      "full_name": "harry0703/MoneyPrinterTurbo",
+      "stars": 145887,
+      "forks": 23492,
+      "pushed_at": "2026-11-27T02:44:45Z",
+      "archived": false,
+      "html_url": "https://github.com/harry0703/MoneyPrinterTurbo"
+    }
+  ]
+}
